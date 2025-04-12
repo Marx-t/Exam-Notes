@@ -15,7 +15,7 @@
 
 ## 各学科考试技巧及知识点归纳
 
-* [Page](ge-xue-ke-kao-shi-ji-qiao-ji-zhi-shi-dian-gui-na/page.md)
+* [数学](ge-xue-ke-kao-shi-ji-qiao-ji-zhi-shi-dian-gui-na/shu-xue.md)
 
 ***
 
