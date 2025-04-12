@@ -93,15 +93,15 @@ PA·PB=PC·PD
 
 #### 调和点列：代一半
 
-\frac{y+n}{2} =amx+\frac{x+m}{2}+c
+$$\frac{y+n}{2} =amx+\frac{x+m}{2}+c$$
 
 #### 点参
 
-y=\[a(m+n)+b]x-amn+c
+$$y=[a(m+n)+b]x-amn+c$$
 
 #### 线段长
 
-AB= \sqrt{1+k^{2} } ·|x\_{a} -x\_{b} |
+$$AB= \sqrt{1+k^{2} } ·|x_{a} -x_{b} |$$
 
 #### 具体题目
 
