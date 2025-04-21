@@ -17,6 +17,7 @@
 
 * [数学](ge-xue-ke-kao-shi-ji-qiao-ji-zhi-shi-dian-gui-na/shu-xue.md)
 * [物理](ge-xue-ke-kao-shi-ji-qiao-ji-zhi-shi-dian-gui-na/wu-li.md)
+* [历史](ge-xue-ke-kao-shi-ji-qiao-ji-zhi-shi-dian-gui-na/li-shi.md)
 
 ***
 
